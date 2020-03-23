@@ -1,0 +1,1 @@
+currently, you have to edit the .bat file to open to the path of the .asm file in question
